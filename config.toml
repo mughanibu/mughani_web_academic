@@ -63,12 +63,12 @@ enableGitInfo = true
 
   # Details for the Contact Widget
   email = "mughani@bu.edu"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "Photonics Center, Room 401F, Boston University, Boston, MA."
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  #phone = "888 888 88 88"
+  #skype = "echo123"
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
