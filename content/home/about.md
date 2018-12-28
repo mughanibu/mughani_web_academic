@@ -10,26 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning", "Computational Imaging", "Computer Vision", "Biomedical Image Processing"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Electrical Engineering"
+  institution = "Boston University, Boston, MA, USA."
+  year = 2020 (Expected)
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Computer Science and Engineering"
+  institution = "Sabanci University, Istanbul, Turkey."
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Electrical (Telecommunication) Engineeering"
+  institution = "COMSATS Institute of IT, Lahore, Pakistan."
+  year = 2013
  
 +++
 
