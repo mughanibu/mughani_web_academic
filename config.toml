@@ -93,7 +93,7 @@ enableGitInfo = true
   map_api_key = ""
   latitude = "42.3492397"
   longitude = "-71.1088264"
-  zoom = 17
+  zoom = 15
 
   # SITE SETUP
 
@@ -109,14 +109,14 @@ enableGitInfo = true
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "profile.png"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "chusmanghani"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "profile.png"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -135,7 +135,7 @@ enableGitInfo = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
