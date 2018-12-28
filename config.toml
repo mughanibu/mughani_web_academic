@@ -64,7 +64,7 @@ enableGitInfo = true
   # Details for the Contact Widget
   email = "mughani@bu.edu"
   address = "Photonics Center, Room 401F, Boston University, Boston, MA."
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
   #telegram = ""
@@ -89,11 +89,11 @@ enableGitInfo = true
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  latitude = "42.3492397"
+  longitude = "-71.1088264"
+  zoom = 17
 
   # SITE SETUP
 
