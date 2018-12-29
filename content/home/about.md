@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Electrical Engineering"
   institution = "Boston University, Boston, MA, USA."
-  year = 2020 (Expected)
+  year = 2020
 
 [[education.courses]]
   course = "MS in Computer Science and Engineering"
