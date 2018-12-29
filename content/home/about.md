@@ -10,7 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning", "Computational Imaging", "Computer Vision", "Biomedical Image Processing"
+    "Machine Learning",
+    "Computational Imaging",
+    "Computer Vision",
+    "Biomedical Image Processing"
   ]
 
 # List your qualifications (such as academic degrees).
