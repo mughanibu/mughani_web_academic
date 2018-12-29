@@ -18,9 +18,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Electrical Engineering"
+  course = "PhD in Electrical Engineering (Expected 2020)"
   institution = "Boston University, Boston, MA, USA."
-  year = 2020 (Expected)
+  #year = 2020 (Expected)
 
 [[education.courses]]
   course = "MS in Computer Science and Engineering"
