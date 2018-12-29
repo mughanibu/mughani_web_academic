@@ -5,10 +5,10 @@ name = "Default"
 google_fonts = "Open Sans Condensed:300|Open Sans:light"
 
 # Font families
-heading_font = "Open Sans"
-body_font = "Open Sans"
-nav_font = "Open Sans"
-mono_font = "Open Sans"
+heading_font = "Open Sans:bold"
+body_font = "Open Sans:light"
+nav_font = "Open Sans:light"
+mono_font = "Open Sans:light"
 
 # Font size
 font_size = "18"
