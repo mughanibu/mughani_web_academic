@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Research Intern"
   company = "Philips Research North America"
-  company_url = ""
+  company_url = "https://www.philips.com/a-w/research/locations/cambridge-north-america.html"
   location = "Cambridge, MA, USA."
   date_start = "2018-05-21"
   date_end = "2018-08-10"
