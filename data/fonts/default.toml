@@ -2,11 +2,11 @@
 name = "Default"
 
 # Optional Google font URL
-#google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "Open+Sans+Condensed:300|Roboto:400,400italic,700|Roboto+Mono"
 
 # Font families
-heading_font = "Open Sans Condensed"
-body_font = "Open Sans Condensed"
+heading_font = "Open+Sans+Condensed"
+body_font = "Open+Sans+Condensed"
 nav_font = "Open Sans Condensed"
 mono_font = "Open Sans Condensed"
 
