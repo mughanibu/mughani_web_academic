@@ -103,7 +103,7 @@ enableGitInfo = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -116,7 +116,7 @@ enableGitInfo = true
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "profile.png"
+  #logo = "profile.png"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -250,9 +250,9 @@ enableGitInfo = true
     link = "mailto:mughani@bu.edu"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "//twitter.com/chUsmanGhani"
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0002-6411-423X"
 
   [[params.social]]
     icon = "google-scholar"
@@ -306,10 +306,10 @@ enableGitInfo = true
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+ [[menu.main]]
+   name = "CV"
+   url = "resume_v3.pdf"
+   weight = 7
 
 # Search.
 [params.search]
