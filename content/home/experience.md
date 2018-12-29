@@ -26,6 +26,7 @@ date_format = "January 2006"
   date_start = "2018-05-21"
   date_end = "2018-08-10"
   description = "Deep Learning for Ultrasound Imaging"
+  """
   Responsibilities include:
   
   * Developing ultrasound beamforming algorithms.
