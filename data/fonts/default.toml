@@ -2,7 +2,7 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Open Sans Condensed:300|Open Sans"
+google_fonts = "Open Sans Condensed:300|Open Sans:light"
 
 # Font families
 heading_font = "Open Sans"
